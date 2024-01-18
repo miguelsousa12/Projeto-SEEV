@@ -8,6 +8,7 @@
  SEEV - Sistemas Elétricos e Eletrónicos de Veículos
 
  TP1: Pretende-se  neste  trabalho  prático  a  implementação  de um algoritmo para em caso de acidente rodoviário, este sistema possuir a capacidade de acionar um dispositivo de segurança passiva, que são os airbags, bem como, a partilha da localização do acidente, acende os 4 piscas, a buzina e os máximos caso se encontre numa situação de pouca luminosidade.
+ LINK: https://youtu.be/PQpY12aMU5c
  */
 
 #include "Arduino.h"
